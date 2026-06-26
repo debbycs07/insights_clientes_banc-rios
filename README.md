@@ -22,3 +22,5 @@ Restrições:
 - Não exponha dados pessoais ou sensíveis.
 - Informe limitações quando os dados não forem suficientes.
 - Use linguagem simples, direta e voltada para tomada de decisão.
+
+**Para mais detalhes e ver a resposta dada pela IA acesse o documento .odt**
